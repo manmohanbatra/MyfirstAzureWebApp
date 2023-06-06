@@ -23,5 +23,5 @@ steps:
   inputs:
     azureSubscription: 'myAzureServiceConnection'
     appType: 'webAppLinux'
-    appName: 'myAzureApp'
+    appName: 'myAzureWebApp2000'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
